@@ -73,7 +73,7 @@ rails-task/
 ### バックエンド（Rails）
 
 ```bash
-cd ~/Desktop/task-api
+cd ~/Desktop/rails-task/task-api
 bundle install
 rails db:create db:migrate
 rails server -p 3010
@@ -82,7 +82,7 @@ rails server -p 3010
 ### フロントエンド（React）
 
 ```bash
-cd ~/Desktop/rails-app
+cd ~/Desktop/rails-task/rails-app
 npm install
 npm start
 ```
@@ -96,14 +96,14 @@ npm start
 **ターミナル1（Rails）:**
 
 ```bash
-cd ~/Desktop/task-api
+cd ~/Desktop/rails-task/task-api
 rails server -p 3010
 ```
 
 **ターミナル2（React）:**
 
 ```bash
-cd ~/Desktop/rails-app
+cd ~/Desktop/rails-task/rails-app
 npm start
 ```
 
