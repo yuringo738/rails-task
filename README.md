@@ -60,6 +60,7 @@ rails-task/
 ```
 
 ---
+https://github.com/user-attachments/assets/3d0ffef3-14de-4f6f-98cd-2199dee0171c
 
 ## セットアップ
 
